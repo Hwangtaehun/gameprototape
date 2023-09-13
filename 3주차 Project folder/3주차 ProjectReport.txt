@@ -1,0 +1,50 @@
+Report created: 
+	2023-09-13	오후 4:12:20
+
+Project name: 3주차 Project.aep
+
+Source files collected to: 
+	C:\Users\OWNER\Desktop\3주차 Project folder
+
+Source files collected: All
+
+Collected comps:  
+	text
+	main
+	반사
+	cyberpunk2077
+	final
+	
+Number of collected files:  3
+
+Size of collected files:  142 MB
+
+Collected source files: 
+	C:\Users\OWNER\Desktop\오버워치 2 시네마틱 트레일러   “제로 아워”.mp4
+	C:\Users\OWNER\Downloads\gold_logo_text\(Footage)\Basic_2K_03.jpg
+	C:\Users\OWNER\Downloads\logo.png
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  7
+
+Effect:  CC Blobbylize
+	
+Effect:  CC Glass
+	
+Effect:  Curves
+	
+Effect:  Fast Box Blur
+	
+Effect:  Fill
+	
+Effect:  Glow
+	
+Effect:  Motion Tile
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Algerian”, Font style: “Regular”
+
