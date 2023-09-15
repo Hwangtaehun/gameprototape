@@ -1,0 +1,47 @@
+Report created: 
+	2023-09-15	오후 10:08:02
+
+Project name: 9월15일.aep
+
+Source files collected to: 
+	D:\복습\9월15일 복습
+
+Source files collected: All
+
+Collected comps:  
+	final
+	text
+	text_com
+	text_other
+	final_other
+	title
+	logo_final
+	reflection
+	
+Number of collected files:  3
+
+Size of collected files:  142 MB
+
+Collected source files: 
+	D:\복습\소스\Basic_2K_03.jpg
+	D:\복습\소스\logo.png
+	D:\복습\소스\오버워치 2 시네마틱 트레일러   “제로 아워”.mp4
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  4
+
+Effect:  CC Blobbylize
+	
+Effect:  CC Glass
+	
+Effect:  Curves
+	
+Effect:  Motion Tile
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Algerian”, Font style: “Regular”
+
