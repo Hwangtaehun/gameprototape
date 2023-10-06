@@ -1,0 +1,50 @@
+Report created: 
+	2023-10-04	오후 4:58:51
+
+Project name: 10월6일 Project.aep
+
+Source files collected to: 
+	C:\Users\OWNER\Desktop\10월6일 Project folder\10월6일 Project folder
+
+Source files collected: All
+
+Collected comps:  
+	덱스트
+	연기소스
+	최종
+	흩어지며 사라지는 효과
+	하트
+	최종
+	
+Number of collected files:  2
+
+Size of collected files:  249 KB
+
+Collected source files: 
+	C:\Users\OWNER\Downloads\오버워치.png
+	C:\Users\OWNER\Downloads\하트.png
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  7
+
+Effect:  CC Ball Action
+	
+Effect:  Compound Blur
+	
+Effect:  Curves
+	
+Effect:  Fractal Noise
+	
+Effect:  Glow
+	
+Effect:  Levels
+	
+Effect:  Radial Wipe
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Magic R”, Font style: “Regular”
+
