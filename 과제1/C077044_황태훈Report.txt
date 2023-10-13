@@ -1,0 +1,56 @@
+Report created: 
+	2023-10-13	오후 8:00:11
+
+Project name: C077044_황태훈.aep
+
+Source files collected to: 
+	D:\Github\gameprototape\과제1
+
+Source files collected: All
+
+Collected comps:  
+	text
+	final
+	map
+	text_comp
+	image
+	map
+	final
+	text
+	smoke
+	final
+	
+Number of collected files:  2
+
+Size of collected files:  1.5 MB
+
+Collected source files: 
+	D:\복습\C077044_황태훈 folder\(Footage)\모래처럼 사라지는 글자\sand.jpg
+	D:\복습\C077044_황태훈 folder\(Footage)\모래처럼 사라지는 이미지\하트.png
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  8
+
+Effect:  Compound Blur
+	
+Effect:  Curves
+	
+Effect:  Displacement Map
+	
+Effect:  Form
+	
+Effect:  Fractal Noise
+	
+Effect:  Glow
+	
+Effect:  Levels
+	
+Effect:  Linear Wipe
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Berlin Sans FB Demi”, Font style: “Bold”
+
