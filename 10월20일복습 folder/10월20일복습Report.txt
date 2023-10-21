@@ -1,0 +1,39 @@
+Report created: 
+	2023-10-21	오전 10:30:27
+
+Project name: 10월20일복습.aep
+
+Source files collected to: 
+	D:\Github\gameprototape\10월20일복습 folder
+
+Source files collected: All
+
+Collected comps:  
+	sample1
+	line
+	Pre-line
+	curveline
+	final
+	
+Number of collected files:  4
+
+Size of collected files:  1.5 MB
+
+Collected source files: 
+	D:\Github\gameprototape\10월20일 folder\(Footage)\3D sence\building.psd
+	D:\Github\gameprototape\10월20일 folder\(Footage)\3D sence\gull1.psd
+	D:\Github\gameprototape\10월20일 folder\(Footage)\3D sence\gull2.psd
+	D:\Github\gameprototape\10월20일 folder\(Footage)\3D sence\sea_sky.psd
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  3
+
+Effect:  Curves
+	
+Effect:  Glow
+	
+Effect:  Lens Flare
+	
+
