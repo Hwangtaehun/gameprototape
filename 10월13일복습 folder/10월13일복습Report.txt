@@ -1,0 +1,70 @@
+Report created: 
+	2023-10-26	오후 9:08:52
+
+Project name: 10월13일복습.aep
+
+Source files collected to: 
+	D:\Github\gameprototape\10월13일복습 folder
+
+Source files collected: All
+
+Collected comps:  
+	text
+	fianl
+	final
+	image
+	effect
+	fianl
+	Comp 1
+	연기소스
+	연기 글자
+	text
+	effect
+	흩어지는 글자
+	map
+	reflection
+	title
+	logo
+	
+Number of collected files:  4
+
+Size of collected files:  931 KB
+
+Collected source files: 
+	D:\Github\gameprototape\10월 13일 1번째 folder\(Footage)\도구툴\오버워치.png
+	D:\Github\gameprototape\10월 13일 1번째 folder\(Footage)\흩어지면서 사라지는 효과\하트.png
+	D:\Github\gameprototape\9월15일 복습\(Footage)\Basic_2K_03.jpg
+	D:\Github\gameprototape\9월15일 복습\(Footage)\logo.png
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  11
+
+Effect:  CC Ball Action
+	
+Effect:  CC Blobbylize
+	
+Effect:  CC Glass
+	
+Effect:  Compound Blur
+	
+Effect:  Curves
+	
+Effect:  Fractal Noise
+	
+Effect:  Glow
+	
+Effect:  Levels
+	
+Effect:  Linear Wipe
+	
+Effect:  Motion Tile
+	
+Effect:  Radial Wipe
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Gulim”, Font style: “Regular”
+
