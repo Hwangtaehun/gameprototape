@@ -1,0 +1,39 @@
+Report created: 
+	2023-11-02	오후 4:10:57
+
+Project name: saber Project.aep
+
+Source files collected to: 
+	C:\Users\User\Desktop\saber Project folder
+
+Source files collected: All
+
+Collected comps:  
+	Comp 1
+	Comp 2
+	Comp 3
+	손오공.png Comp 1
+	
+Number of collected files:  1
+
+Size of collected files:  116 KB
+
+Collected source files: 
+	C:\Users\User\Desktop\손오공.png
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  3
+
+Effect:  Gradient Ramp
+	
+Effect:  Saber
+	
+Effect:  Stroke
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Source Han Sans K”, Font style: “Bold”
+
