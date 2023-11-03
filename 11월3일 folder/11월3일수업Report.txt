@@ -1,0 +1,41 @@
+Report created: 
+	2023-11-03	오전 11:24:12
+
+Project name: 11월3일수업.aep
+
+Source files collected to: 
+	D:\Github\gameprototape\11월3일 folder
+
+Source files collected: All
+
+Collected comps:  
+	test
+	test2
+	final
+	손오공.png Comp 1
+	test3
+	
+Number of collected files:  2
+
+Size of collected files:  1.3 MB
+
+Collected source files: 
+	D:\복습\소스\milky-way-2695569_1920.jpg
+	D:\복습\소스\손오공.png
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  3
+
+Effect:  Gradient Ramp
+	
+Effect:  Saber
+	
+Effect:  Stroke
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Gulim”, Font style: “Regular”
+
