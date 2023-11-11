@@ -1,0 +1,41 @@
+Report created: 
+	2023-11-11	오후 12:40:26
+
+Project name: 11월 10일 복습.aep
+
+Source files collected to: 
+	D:\Github\gameprototape\11월10일복습 folder
+
+Source files collected: All
+
+Collected comps:  
+	fianl
+	colorchange
+	fianl
+	whitechange
+	
+Number of collected files:  1
+
+Size of collected files:  19.3 MB
+
+Collected source files: 
+	D:\Github\gameprototape\11월10일 folder\(Footage)\twitch\nature_-_31377 (1080p).mp4
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  4
+
+Effect:  CC Color Offset
+	
+Effect:  Gradient Ramp
+	
+Effect:  Knoll Light Factory
+	
+Effect:  Twitch
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Gulim”, Font style: “Regular”
+
